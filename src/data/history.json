@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Junior Software Engineer",
+    "organisation": "Cognizant",
+    "startDate": "Aug, 2022",
+    "endDate": "March , 2025",
+    "experiences": ["Skilled in HTML, CSS, JavaScript, React.js,Figma,NVDA,JAWS,VoiceOver,Talkback,Passionate about building scalable applications.", "Worked on developing and maintaining web applications, focusing on user experience and performance optimization."],
+    "imageSrc": "history/CTSH.png"
+  },
+  {
+    "role": "Programmer Analyst Trainee",
+    "organisation": "Cognizant",
+    "startDate": "Feb, 2022",
+    "endDate": "Aug, 2022",
+    "experiences": ["Gained hands-on experience in frontend technologies like HTML, CSS, JavaScript, React.js, and backend development using Core Java, Spring, and Spring Boot by building real-world", " Completed internal training and assignments with a focus on real-world us cases, enhancing both UI development and backend integration skills."],
+    "imageSrc": "history/CTSH.png"
+  }
+]
